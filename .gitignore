@@ -1,0 +1,10 @@
+.htaccess
+app/etc/local.xml
+var/
+dev.git/
+RELEASE_NOTES.txt
+.DS_Store
+media/catalog/product/cache/
+media/import/
+media/css/
+media/css_secure/
