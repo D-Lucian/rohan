@@ -1,0 +1,978 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fno",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"da",
+				"dashed"
+			],
+			[
+				"te",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/Work/Documente Munca - Programare/Themes & Graphics/themeforest-3139960-shopper-magento-theme-responsive-retina-ready/package_1_5_3/Theme/app/design/frontend/shopper/default/layout/local.xml",
+			"settings":
+			{
+				"buffer_size": 14175,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/design/frontend/default/frame/layout/local.xml",
+			"settings":
+			{
+				"buffer_size": 4335,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Work/Work/Dev-Inc/Extensii/Completed/latest versions/groupdeals/Group Deals/skin/frontend/base/default/groupdeals/css/groupdeals.css",
+			"settings":
+			{
+				"buffer_size": 33719,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/design/frontend/base/default/layout/wishlist.xml",
+			"settings":
+			{
+				"buffer_size": 6266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/design/frontend/base/default/layout/checkout.xml",
+			"settings":
+			{
+				"buffer_size": 27037,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/design/frontend/base/default/layout/customer.xml",
+			"settings":
+			{
+				"buffer_size": 12488,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/design/frontend/default/frame/template/page/html/quicklinks.phtml",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/design/frontend/default/frame/template/page/html/header.phtml",
+			"settings":
+			{
+				"buffer_size": 2394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/design/frontend/default/frame/template/checkout/cart/header_cart.phtml",
+			"settings":
+			{
+				"buffer_size": 3931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/design/frontend/rwd/default/layout/page.xml",
+			"settings":
+			{
+				"buffer_size": 13889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "skin/frontend/default/frame/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 53623,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/design/frontend/default/frame/template/checkout/cart/sidebar/default.phtml",
+			"settings":
+			{
+				"buffer_size": 9248,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "skin/frontend/default/frame/js/hover.js",
+			"settings":
+			{
+				"buffer_size": 187,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/design/frontend/default/frame/template/catalogsearch/form.mini.phtml",
+			"settings":
+			{
+				"buffer_size": 2173,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "skin/frontend/default/frame/css/responsive.css",
+			"settings":
+			{
+				"buffer_size": 66,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/xampp/htdocs/frame",
+		"/E/xampp/htdocs/frame/app",
+		"/E/xampp/htdocs/frame/app/design",
+		"/E/xampp/htdocs/frame/app/design/frontend",
+		"/E/xampp/htdocs/frame/app/design/frontend/base",
+		"/E/xampp/htdocs/frame/app/design/frontend/base/default",
+		"/E/xampp/htdocs/frame/app/design/frontend/base/default/layout",
+		"/E/xampp/htdocs/frame/app/design/frontend/base/default/template",
+		"/E/xampp/htdocs/frame/app/design/frontend/base/default/template/page",
+		"/E/xampp/htdocs/frame/app/design/frontend/default",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/blank",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/blank/etc",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame/layout",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame/template",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame/template/checkout",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame/template/checkout/cart",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame/template/page",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame/template/page/html",
+		"/E/xampp/htdocs/frame/skin",
+		"/E/xampp/htdocs/frame/skin/frontend",
+		"/E/xampp/htdocs/frame/skin/frontend/default",
+		"/E/xampp/htdocs/frame/skin/frontend/default/frame",
+		"/E/xampp/htdocs/frame/skin/frontend/default/frame/css",
+		"/E/xampp/htdocs/frame/skin/frontend/default/frame/js"
+	],
+	"file_history":
+	[
+		"/C/Users/D/AppData/Local/Temp/fz3temp-2/header.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Devinc_Gomobile.xml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Magestore_Themeswitcher.xml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/configurable.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/view.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/List.php",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame/template/fontawesome/init.phtml",
+		"/E/xampp/htdocs/frame/app/design/frontend/rwd/default/layout/catalog.xml",
+		"/E/Work/Work/Dev-Inc/Extensii/Completed/latest versions/groupdeals-responsive/Group Deals - Responsive Add-on/skin/frontend/base/default/groupdeals/css/responsive.css",
+		"/E/Work/Work/Dev-Inc/Extensii/Completed/latest versions/groupdeals-responsive/install instructions.txt",
+		"/E/xampp/htdocs/frame/app/design/frontend/base/default/layout/page.xml",
+		"/E/xampp/htdocs/frame/app/design/frontend/base/default/layout/wishlist.xml",
+		"/E/xampp/htdocs/frame/app/design/frontend/base/default/layout/customer.xml",
+		"/E/xampp/htdocs/frame/app/design/frontend/base/default/layout/cms.xml",
+		"/E/xampp/htdocs/frame/app/design/frontend/base/default/layout/core.xml",
+		"/E/xampp/htdocs/ymall/skin/frontend/ymall/ruxion/css/responsive.css",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame/template/page/3columns.phtml",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame/template/page/2columns-right.phtml",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame/template/page/2columns-left.phtml",
+		"/E/xampp/htdocs/frame/app/design/frontend/default/frame/template/page/1column.phtml",
+		"/E/Work/Documente Munca - Programare/Themes & Graphics/themeforest-5210309-milano-responsive-magento-theme-blog-extension/Milano_Premium_Magento_Theme_1_7_4_3/app/code/local/ShopShark/ThemeConfig/etc/config.xml",
+		"/E/Work/Documente Munca - Programare/Themes & Graphics/themeforest-3139960-shopper-magento-theme-responsive-retina-ready/package_1_5_3/Theme/app/code/local/Queldorei/ShopperSettings/etc/config.xml",
+		"/E/Work/Documente Munca - Programare/Themes & Graphics/themeforest-5210309-milano-responsive-magento-theme-blog-extension/Milano_Premium_Magento_Theme_1_7_4_3/app/code/local/ShopShark/ThemeConfig/etc/cms.xml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/styles.css",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/responsive.css",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/styles 3.css",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/responsive 3.css",
+		"/E/xampp/htdocs/frame/skin/frontend/rwd/default/scss/layout/_header-search.scss",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/styles 2.css",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/responsive 2.css",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/landing 2.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/landing.phtml",
+		"/D/Programe/Microsoft.Office.2007.Enterprise.SP1.Integrated-ETH0/eth0.nfo",
+		"/E/Media/Downloads/Person.of.Interest.S04E12.HDTV.x264-LOL/person.of.interest.412.hdtv-lol.nfo",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/local.xml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/index.php",
+		"/E/Media/Downloads/House.of.Lies.S04E01.HDTV.x264-ASAP/house.of.lies.s04e01.hdtv.x264-asap.nfo",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/popup-subscribe.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Mage_CatalogSearch.csv",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/links.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/navigation 2.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/navigation.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/vertnav.css",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Meta.php",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/meta.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/block.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/upsell.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/header.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/info.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/print.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/print 2.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/billing 3.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/shipping.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/firecheckout.js",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/TM_FireCheckout.csv",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/billing 4.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/button.css",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/view 3.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/billing.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/billing 2.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/list-home.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/header 2.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/related.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/view 2.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/list.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/price.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/addtocart.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/button.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/login.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Mage_Customer 2.csv",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/facebook.xml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/button-register.phtml",
+		"/C/Users/D/AppData/Local/Temp/Rar$DIa0.267/INSTALL.txt",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/links 3.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/links 2.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Data.php",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Config.php",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Init.php",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Mage_Customer.csv",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Observer.php",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Mage_Catalog.csv",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/inchoo_socialconnect 2.xml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/Inchoo_SocialConnect.xml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/toolbar.phtml",
+		"/E/xampp/htdocs/ymall/README.md",
+		"/C/Users/D/Downloads/facebook_all_in_one_1/Facebook All In One/install/app/etc/modules/Belvg_All.xml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/filter.phtml",
+		"/E/xampp/htdocs/ymall/app/design/frontend/ymall/default/template/page/html/header.phtml",
+		"/E/xampp/htdocs/ymall/app/etc/local.xml",
+		"/D/Programe/Adobe Creative Suite CS5.5 Master Collection/Adobe Creative Suite 5.5 Master Collection/!!Read First-Instructions!!.txt",
+		"/C/Users/D/AppData/Roaming/Skype/My Skype Received Files/gazduire.txt",
+		"/E/xampp/htdocs/ymall/app/design/frontend/ymall/default/template/sales/order/view.phtml",
+		"/E/xampp/htdocs/ymall/app/design/frontend/ymall/default/template/page/html/top.links.phtml",
+		"/C/Program Files (x86)/Git/lib/engines/libaep.so",
+		"/E/xampp/htdocs/ymall/.git/objects/7e/1b71c58fa305a9db3e4940edf32be83f16f99d",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/.htaccess 2",
+		"/E/xampp/htdocs/ymall/app/design/frontend/ymall/default/template/page/template/links.phtml",
+		"/E/xampp/htdocs/ymall/app/design/frontend/ymall/essenza/template/page/template/links.phtml",
+		"/E/xampp/htdocs/ymall/app/design/frontend/ymall/essenza/template/page/html/header.phtml",
+		"/E/xampp/htdocs/ymall/app/design/frontend/ymall/essenza/template/catalog/product/list-home.phtml",
+		"/E/xampp/htdocs/ymall/app/design/frontend/ymall/essenza/template/catalog/product/view.phtml",
+		"/E/xampp/htdocs/ymall/.gitignore",
+		"/E/xampp/htdocs/ymall/app/design/frontend/ymall/default/template/cms/landing.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/1259691537544",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/ga.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/content_heading.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/form.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/footer.phtml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/config.xml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/270930227608",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/788676542443",
+		"/E/Temp/ajaxcart/Ajax Cart/app/etc/modules/Devinc_Ajaxcartx.xml",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/316321480759",
+		"/E/Temp/ymallBack/ymall_new.sql",
+		"/C/Users/D/AppData/Local/Temp/fz3temp-1/907828011663",
+		"/C/Users/D/AppData/Local/Temp/essenzashoes.ro-20141208101200.csv",
+		"/E/xampp/htdocs/ymall/app/locale/ro_RO/Mage_Sales.csv",
+		"/E/xampp/htdocs/ymall/app/locale/ro_RO/Mage_Backup.csv",
+		"/E/xampp/htdocs/ymall/.git/config",
+		"/E/xampp/htdocs/magento/app/etc/local.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".header",
+			".block-content ",
+			".header",
+			".headr",
+			".header",
+			".headr",
+			".product-name a",
+			"f1f1f1",
+			".btn-remove",
+			".header",
+			"background",
+			"10px",
+			"20px",
+			"in your cart.",
+			"'Checkout'",
+			"Checkout",
+			".",
+			"top.links",
+			".header",
+			".main",
+			".page",
+			"after_right",
+			"before_right",
+			"after_content_end",
+			"after_content",
+			"before_content",
+			"after_left",
+			"before_left",
+			"before_content_start",
+			"before_header",
+			"local",
+			"locale",
+			"wrapper",
+			"text-transform: uppercase;",
+			"echo",
+			"Relevance",
+			"rog",
+			"Te rog",
+			"0",
+			"40px",
+			"45px",
+			"38px",
+			"button.btn-cart span.icon",
+			".products-grid",
+			"42",
+			".products-grid .actions button.btn-cart",
+			"button.btn-cart span span",
+			"52px",
+			"Sort By",
+			"Sort by",
+			"Sort By",
+			"$tracknums[]=",
+			"resetAcBlocks",
+			"update_blocks",
+			"\\",
+			"app",
+			"(ask @luci)",
+			"'essenza'",
+			"$this->getUrl('','essenza')"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 11,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/Work/Documente Munca - Programare/Themes & Graphics/themeforest-3139960-shopper-magento-theme-responsive-retina-ready/package_1_5_3/Theme/app/design/frontend/shopper/default/layout/local.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2891,
+								2974
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2107.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/design/frontend/default/frame/layout/local.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1954,
+								1954
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/Work/Work/Dev-Inc/Extensii/Completed/latest versions/groupdeals/Group Deals/skin/frontend/base/default/groupdeals/css/groupdeals.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/design/frontend/base/default/layout/wishlist.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/design/frontend/base/default/layout/checkout.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2316,
+								1396
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/design/frontend/base/default/layout/customer.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2675,
+								2475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/design/frontend/default/frame/template/page/html/quicklinks.phtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/design/frontend/default/frame/template/page/html/header.phtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2228,
+								2239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/design/frontend/default/frame/template/checkout/cart/header_cart.phtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1439,
+								1439
+							],
+							[
+								1642,
+								1642
+							],
+							[
+								1878,
+								1878
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 411.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/design/frontend/rwd/default/layout/page.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1575,
+								1405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "skin/frontend/default/frame/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25011,
+								25011
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/design/frontend/default/frame/template/checkout/cart/sidebar/default.phtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2678,
+								2678
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "skin/frontend/default/frame/js/hover.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/design/frontend/default/frame/template/catalogsearch/form.mini.phtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1706,
+								1706
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "skin/frontend/default/frame/css/responsive.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "frame.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

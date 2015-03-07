@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout>
+	<default>
+		<!-- Add new layout sections through all magento layout -->
+		<reference name="root">
+			<block type="core/text_list" name="before_header" as="before_header" translate="label">
+                <label>Before Header</label>
+            </block>
+			<block type="core/text_list" name="before_content_start" as="before_content_start" translate="label">
+                <label>Before Content Start</label>
+            </block>
+			<block type="core/text_list" name="before_left" as="before_left" translate="label">
+                <label>Before Left</label>
+            </block>
+			<block type="core/text_list" name="after_left" as="after_left" translate="label">
+                <label>After Left</label>
+            </block>
+			<block type="core/text_list" name="before_content" as="before_content" translate="label">
+                <label>Before Content</label>
+            </block>
+			<block type="core/text_list" name="after_content" as="after_content" translate="label">
+                <label>After Content</label>
+            </block>
+			<block type="core/text_list" name="after_content_end" as="after_content_end" translate="label">
+                <label>After Content End</label>
+            </block>
+			<block type="core/text_list" name="before_right" as="before_right" translate="label">
+                <label>Before Right</label>
+            </block>
+			<block type="core/text_list" name="after_right" as="after_right" translate="label">
+                <label>After Right</label>
+            </block>
+			<block type="core/text_list" name="before_footer" as="before_footer" translate="label">
+                <label>Before Footer</label>
+            </block>
+		</reference>
+
+		<!-- Remove callouts and rarely used stuff -->
+		<remove name="right.poll"/>
+		<remove name="right.permanent.callout"/>
+		<remove name="left.permanent.callout"/>
+		<remove name="paypal.partner.right.logo"/>
+		<remove name="cart_sidebar"/>
+
+		<!-- Add Css and Js files -->
+		<reference name="head">
+			<action method="addJs"><script>lib/jquery/jquery-1.10.2.min.js</script></action>
+            <action method="addJs"><script>lib/jquery/noconflict.js</script></action>
+            <action method="addItem"><type>skin_js</type><script>js/hover.js</script></action>
+
+			<action method="addLinkRel"><rel>stylesheet</rel><href>//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css</href></action>
+			<action method="addCss"><stylesheet>css/responsive.css</stylesheet></action>
+		</reference>
+
+		<!-- Header -->
+		<reference name="header">
+            <block type="checkout/cart_sidebar" name="header_cart" template="checkout/cart/header_cart.phtml" >
+                <action method="addItemRender"><type>simple</type><block>checkout/cart_item_renderer</block><template>checkout/cart/sidebar/default.phtml</template></action>
+                <action method="addItemRender"><type>grouped</type><block>checkout/cart_item_renderer_grouped</block><template>checkout/cart/sidebar/default.phtml</template></action>
+                <action method="addItemRender"><type>configurable</type><block>checkout/cart_item_renderer_configurable</block><template>checkout/cart/sidebar/default.phtml</template></action>
+                <block type="core/text_list" name="cart_sidebar.extra_actions" as="extra_actions" translate="label" module="checkout">
+                    <label>Shopping Cart Sidebar Extra Actions</label>
+                </block>
+            </block>
+		</reference>	
+
+		<!-- Top Links -->
+        <reference name="top.links">
+            <remove name="checkout_cart_link"/>
+        </reference>
+
+	</default>
+
+    <customer_logged_in>
+        <reference name="top.links">
+            <action method="addLink" translate="label title" module="customer"><label>Log Out</label><url helper="customer/getLogoutUrl"/><title>Log Out</title><prepare/><urlParams/><position>100</position></action>
+        </reference>
+    </customer_logged_in>
+
+    <customer_logged_out>
+        <reference name="top.links">
+            <action method="addLink" translate="label title" module="customer"><label>Register</label><url helper="customer/getRegisterUrl"/><title>Register</title><prepare/><urlParams/><position>90</position></action>
+        </reference>
+    </customer_logged_out>
+</layout>
