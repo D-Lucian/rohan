@@ -28,7 +28,7 @@
 
 body          { background:#fff; font:15px/1.35 Arial, Helvetica, sans-serif; color:#000; text-align:center; }
 
-img           { border:0; vertical-align:top; }
+img           { border:0; vertical-align:top; max-width: 100%}
 
 a             { color:#05c; text-decoration:underline; }
 a:hover       { text-decoration:none; }
@@ -394,7 +394,7 @@ tr.summary-details-excluded { font-style:italic; }
 .std p,
 .std address,
 .std blockquote { margin:0 0 1em; padding:0; }
-.std ul { list-style:disc outside; padding-left:1.5em; }
+/*.std ul { list-style:disc outside; padding-left:1.5em; }*/
 .std ol { list-style:decimal outside; padding-left:1.5em; }
 .std ul ul { list-style-type:circle; }
 .std ul ul,
@@ -653,7 +653,7 @@ tr.summary-details-excluded { font-style:italic; }
 /* Category Page ========================================================================= */
 .category-title { border:0; margin:0 0 7px; }
 .category-image { width:100%; overflow:hidden; margin:0 0 10px; text-align:center; }
-.category-image img {}
+.category-image img {max-width:100% ; }
 .category-description { margin:0 0 10px; }
 .category-products {}
 
